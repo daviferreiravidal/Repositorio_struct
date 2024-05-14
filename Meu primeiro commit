@@ -1,0 +1,7 @@
+echo "# Repositorio_struct" >> README.md
+git init
+git add README.md
+git commit -m "Meu primeiro commit"
+git branch -M main
+git remote add origin git@github.com:daviferreiravidal/Repositorio_struct.git
+git push -u origin main
